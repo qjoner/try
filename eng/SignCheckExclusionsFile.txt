@@ -1,0 +1,3 @@
+*bundle.js
+editor.worker.js
+trydotnet.min.js
